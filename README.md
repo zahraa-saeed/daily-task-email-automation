@@ -31,4 +31,4 @@ Schedule Trigger → Google Sheets → Python → Gmail
 
 ## Workflow Preview
 
-![Workflow Preview](workflow.png)
+![Workflow Preview](Workflow-1.png)
